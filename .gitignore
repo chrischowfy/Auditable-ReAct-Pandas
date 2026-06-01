@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Secrets and local configuration
+.env
+.env.*
+*.key
+*.pem
+
+# Logs and temporary outputs
+*.log
+*.tmp
+tmp/
+output/
+outputs/
+db/
+
+# Experiment outputs generated locally
+results/
+local_outputs/
+
+# Large data files and archives
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+data/**/*.json
+data/**/*.json.gz
+!data/clean_1818_392/manifest.json

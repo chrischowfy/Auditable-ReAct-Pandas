@@ -1,0 +1,7 @@
+fire>=0.5
+numpy<2
+pandas>=2.0,<2.2
+openai>=1.0
+tiktoken>=0.5
+tenacity>=8.0
+tqdm>=4.65

@@ -1,0 +1,15 @@
+{
+  "name": "clean_1818_392",
+  "description": "Placeholder metadata for the separately distributed clean trusted runnable MMQA data pool.",
+  "two_table_count": 1818,
+  "multi_table_count": 392,
+  "data_archive": "auditable_react_pandas_clean_data.tar.gz",
+  "expected_files": [
+    "data/clean_1818_392/two_clean_1818.json.gz",
+    "data/clean_1818_392/multi_clean_392.json.gz"
+  ],
+  "notes": [
+    "Large JSON files are intentionally excluded from the GitHub code release.",
+    "Download the archive from the Google Drive link in README.md."
+  ]
+}
