@@ -1,9 +1,6 @@
 # Auditable ReAct-Pandas
 
 Minimal runnable implementation of Auditable ReAct-Pandas for multi-table QA.
-The repository contains only the current solver, its model client, evaluation
-normalizer, focused unit tests, and a placeholder for the separately hosted
-clean data archive.
 
 ## Repository Layout
 
